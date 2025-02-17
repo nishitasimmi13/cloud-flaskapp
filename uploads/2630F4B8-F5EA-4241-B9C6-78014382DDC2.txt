@@ -1,0 +1,66 @@
+Rohan Gokul Bharathala
+Cincinnati, Ohio | bharatrl@mail.uc.edu | https://www.linkedin.com/in/rohan-gokul-bharathala/ | 513-356-3693
+
+EDUCATION
+University of Cincinnati, Cincinnati, Ohio
+Master of Engineering in Computer Science
+SRM University AP
+Bachelor of Technology in Computer Science and Engineering
+
+Aug 2024 – Apr 2026
+Oct 2020 - June 2024
+
+TECHNICAL SKILLS
+ Programming Languages: C, C++, Python, OpenCV
+ Web Development: HTML, CSS, JavaScript
+ Databases: MySQL
+ Cloud: AWS
+WORK EXPERIENCE
+Developer, Salesforce Inc
+
+Apr 2022- June 2022
+
+
+
+Tech Stack: Apex Triggers, Apex Testing
+
+
+
+Crafted tailored solutions and program flow for user applications on the Salesforce platform. Addressed
+troubleshooting and resolved bugs during application testing to ensure stability and functionality.
+
+ACHIEVEMENTS
+ Organizing member in the Science and Technology Exhibition organized by ISRO and DAE.
+ Organizing member of cultural fest Infinitus ’24
+
+
+
+Disciplinary Committee Hostel Head, SRM University AP
+
+ACADEMIC PROJECTS
+Person Detection in Disasters
+
+
+Developed a comprehensive machine learning application for real-time people detection using YOLO (You
+Only Look Once) models and disaster type classification using VGG19. The project involved building a web
+interface, handling various input sources, training deep learning models, and evaluating their performance.
+
+Facial Recognition System Using Machine Learning
+
+
+Python, OpenCV
+
+The Face Verification System is a computer vision application that uses OpenCV and face recognition libraries
+to verify if a person’s face in a live video stream matches a reference image.
+
+Raman spectroscopy using Deep learning
+
+
+Python
+
+Python
+
+To describe the known compound using deep learning by representing graphs checking the peak points for the
+known compound and displaying the name of the compound using the mat plot library.
+
+
